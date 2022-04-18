@@ -1,0 +1,10 @@
+﻿From,To,Distance,Travel Time,Airfare
+Delhi,Mumbai,1148,02:10,INR 6000
+Delhi,London,6704,08:55,INR 37000
+Delhi,Frankfurt,6117,08:35,INR 32000
+Los Angeles,Tokyo,8773,11:15,USD 520
+Frankfurt,London,660,01:25,EUR 155
+Hyderabad,Chennai,400,03:35,INR 7000
+Kurnool,Hyderabad,300,04:00,INR 3000
+Banglore,Kolkata,700,12:30,INR 15000
+Pune,Mumbai,800,10:00,INR 20000
